@@ -67,6 +67,10 @@ The dataset contains detailed information on thousands of asteroids. Its main at
   <a>
     <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,github,markdown,tensorflow,latex&perline=19" alt="Skill Icons">
   </a>
+
+  
+  ![image](https://github.com/user-attachments/assets/3f7edef1-084d-43e6-8bcd-a2df58c11fc7)
+
   
 ## ●• $\text{Reproduction Steps}$
 
