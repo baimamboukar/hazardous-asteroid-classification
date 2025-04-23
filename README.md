@@ -10,7 +10,7 @@ _This repository implements a Graphical Neural Networks and its variants -- Grap
 <center>
 
 
-[![ArXiv](https://img.shields.io/badge/ArXiv-00A1D6?logo=arxiv&logoColor=white)](https://arxiv.org/) [![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?logo=huggingface&logoColor=white)](https://huggingface.co/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/) [![ESA](https://img.shields.io/badge/NASA-Data-003087?logo=satellite&logoColor=white)](https://esa.int/)
+[![ArXiv](https://img.shields.io/badge/ArXiv-00A1D6?logo=arxiv&logoColor=white)](https://arxiv.org/) [![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?logo=huggingface&logoColor=white)](https://huggingface.co/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/) [![ESA](https://img.shields.io/badge/NASA-Data-003087?logo=satellite&logoColor=white)](https://www.jpl.nasa.gov/)
 </center>
 
 
@@ -23,21 +23,21 @@ _This repository implements a Graphical Neural Networks and its variants -- Grap
 <table align="center" style="width: 100%; text-align: center;">
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/40d0df5a-c678-42b8-af9f-6efe6d194335" alt="Baimam Boukar Jean Jacques" width="150" height="150"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/ba0ce6e2-145e-44f4-9501-f0f70e43ea9d" alt="Kipngeno Koech" width="150" height="150" style="border-radius: 10px;"></td>
+    <!-- <td align="center"><img src="https://github.com/user-attachments/assets/ba0ce6e2-145e-44f4-9501-f0f70e43ea9d" alt="Kipngeno Koech" width="150" height="150" style="border-radius: 10px;"></td> -->
   </tr>
   <tr>
     <td>$\text{Baimam Boukar Jean Jacques}$</td>
-    <td>$\text{Kipngeno Koech}$</td>
+    <!-- <td>$\text{Kipngeno Koech}$</td> -->
   </tr>
   <tr>
     <td>Carnegie Mellon University Africa</td>
-    <td>Carnegie Mellon University Africa</td>
+    <!-- <td>Carnegie Mellon University Africa</td> -->
   </tr>
   <tr>
     <td>
       <stong>bbaimamb@andrew.cmu.edu</stong>
     </td>
-    <td>bkoech@andrew.cmu.edu</td>
+    <!-- <td>bkoech@andrew.cmu.edu</td> -->
   </tr>
   <tr>
     <td>
@@ -45,11 +45,11 @@ _This repository implements a Graphical Neural Networks and its variants -- Grap
       <a href="https://github.com/baimamboukar"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
       <a href="https://kaggle.com/baimamboukar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle"></a>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://linkedin.com/in/kipngenokoech"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
       <a href="https://github.com/kkipngeokoech"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
       <a href="https://kaggle.com/kipngenokoech"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle"></a>
-    </td>
+    </td> -->
   </tr>
 </table>
 </center>
