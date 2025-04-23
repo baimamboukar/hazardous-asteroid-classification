@@ -5,7 +5,7 @@
 
 </center>
 
-_This repository implements a Graphical Neural Networks and its variants -- Graph Attention Networks, GraphSAGE-- models to classifiy potentially hazardous asteroids on the NASA Jet Propulsion Lab's Small Body Datasets._
+_This repository implements a Graphical Neural Networks and its variants (Graph Attention Networks and GraphSAGE) models to classifiy potentially hazardous asteroids on the NASA Jet Propulsion Lab's Small Body Datasets._
 
 <center>
 
@@ -55,21 +55,17 @@ _This repository implements a Graphical Neural Networks and its variants -- Grap
 </center>
 
 ## ●• $\text{Dataset Description}$
+Our dataset, the Asteroid Dataset, is from NASA's Jet Propulsion Laboratory (JPL). It contains over 950,000 records, sourced from the official Small-Body Database by the NASA Jet Propulsion Lab. It was originally preprocessed by a NASA Astronomy and Astrophysics Researcher.
 
-The analysis used telemetry data from the European Space Agency's ESA-Mission1. It has over 14 million records collected across several years. This continuous multivariate time series includes 87 mission-critical channels, annotated for anomalies and rare events through iterative manual and algorithmic refinement of flight control reports. The dataset targets two event categories
+The preprocessed version is publicly available, and licensed under OpenData Commons Open Database License (ODbL) v1.0 by a JPL-authored document sponsored by NASA under Contract NAS7-030010.
 
-●• Anomalies $\to$ Unexpected behaviors or system failures <br>
-●• Nominal Events $\to$ unusual but expected operational patterns. 
-
-The data is divided into a training set spanning 14 years of operations and a test set covering a 6-month unpublished segment.
-
-The dataset has 87 telemetry channels, 58 target channels monitored for anomalies, 18 auxiliary environmental variables, and 11 telecommand channels that are binary control commands, prefixed with `telecommand_`
+The dataset contains detailed information on thousands of asteroids. Its main attributes include orbital eccentricity, semimajor axis,perihelion distance, absolute magnitude, diameter, and the Near-Earth Object (NEO) and Potentially Hazardous Asteroid (PHA) flags.
 
 ## ●• $\text{Methodology}$
 
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,github,markdown,latex&perline=19" alt="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,github,markdown,tensorflow,latex&perline=19" alt="Skill Icons">
   </a>
   
 ## ●• $\text{Reproduction Steps}$
